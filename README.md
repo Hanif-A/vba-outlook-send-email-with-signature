@@ -1,4 +1,4 @@
-# VBA Outlook - How to send an email from Excel with your Outlook Email Signature
+# Excel VBA - How to send an email from Excel with your Outlook Email Signature using VBA
 
 ## Send_Email_With_Signature.vbs
 
